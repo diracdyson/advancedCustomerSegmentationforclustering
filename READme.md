@@ -1,3 +1,4 @@
+# notes
 - This code could be organized better but it is readible
 - EDA 
 - PCA is applied very successfully
